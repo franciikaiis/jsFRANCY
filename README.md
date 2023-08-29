@@ -1,1 +1,1 @@
-# jsFRANCY
+# jsfrancy
